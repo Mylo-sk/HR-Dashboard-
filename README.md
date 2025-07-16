@@ -1,5 +1,6 @@
 # HR-Dashboard- Tableau
 ## User Story - HR Dashboard
+> **`Tableau Dashboard link:`** https://public.tableau.com/views/HR-Dashboard_17515731483890/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
 ## Summary View
